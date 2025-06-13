@@ -1,3 +1,5 @@
+See also [this chat](https://claude.ai/chat/dceae52c-da25-4926-aa84-be5d69c95517).
+
 # CORVID Project Plan
 **Consentual Objective Reality: Virtualized, Interpreted, Distributed**
 
